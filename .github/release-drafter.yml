@@ -1,0 +1,6 @@
+template: |
+  ## This is a test
+
+  version is $INPUT_VERSION
+
+  $CHANGES
